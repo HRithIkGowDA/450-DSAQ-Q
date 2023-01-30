@@ -53,7 +53,7 @@
 > 450DSA runs on port 3000 of your Local Machine
 ```
 
-[![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/AsishRaju/450-DSA)
+
 
 
 
