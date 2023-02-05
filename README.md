@@ -65,4 +65,3 @@
 [react]: https://reactjs.org/
 [react-table-2]: https://react-bootstrap-table.github.io/react-bootstrap-table2/
 
-status- 40% completed
